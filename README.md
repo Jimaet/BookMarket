@@ -1,2 +1,0 @@
-# BookMarket
-Интернет магазин "LitBook"
